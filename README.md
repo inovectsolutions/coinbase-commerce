@@ -1,6 +1,6 @@
 [![CircleCI](https://circleci.com/gh/coinbase/coinbase-commerce-php/tree/master.svg?style=svg)](https://circleci.com/gh/coinbase/coinbase-commerce-php/tree/master)
 # Coinbase Commerce
-
+This is Laravel 8[ upto guzzle 7.0] supported Coinbase Commerce plugin.
 The official PHP library for the [Coinbase Commerce API](https://commerce.coinbase.com/docs/).
 
 # Table of contents
