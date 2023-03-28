@@ -151,7 +151,8 @@ class ApiResource extends \ArrayObject
         return count($this->attributes);
     }
 
-    public function asort()
+    public function asort(int $flags = SORT_REGULAR): bool 
+
     {
         asort($this->attributes);
     }
